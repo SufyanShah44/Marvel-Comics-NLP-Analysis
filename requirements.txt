@@ -1,0 +1,13 @@
+pandas
+numpy
+altair
+vaderSentiment
+transformers
+torch
+sentence-transformers
+scikit-learn
+anthropic
+python-dotenv
+jupyter
+ipykernel
+ 
